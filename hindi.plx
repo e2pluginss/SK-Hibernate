@@ -213,4 +213,12 @@ name=Sanskar TV
 thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/711397.jpg
 URL=http://yupptvrtmp-lh.akamaihd.net/i/blore_7@35255/index_1000.m3u8
 #
-
+type=video
+name=STAR LIVE
+thumb=http://www.star.gr/tv/Style%20Library/images/logo.png
+URL=http://cds.x8p2m7j9.hwcdn.net/wa/streamstar25/playlist.m3u8
+#
+type=video
+name=TV COLORS
+thumb=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Synthese%2B.svg/212px-Synthese%2B.svg.png
+URL=http://cds.x8p2m7j9.hwcdn.net/wa/streamtvcol07/playlist.m3u8
