@@ -1,6 +1,6 @@
-title=IPTV By_SK16 ===
+title=Hindi Ent ===
 version=1
-background=http://wallpaper.yenta4.com/pic/real/11/285/cb726d3b7c47073ed41655bd6caf969f.jpg
+background=https://upload.wikimedia.org/wikipedia/commons/b/b7/Hindi_devnagari.png
 view=thumbnails
 #
 type=video
