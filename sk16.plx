@@ -212,3 +212,8 @@ type=video
 name=Sanskar TV
 thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/711397.jpg
 URL=http://yupptvrtmp-lh.akamaihd.net/i/blore_7@35255/index_1000.m3u8
+#
+type=playlist
+name=@sk16_news
+thumb=http://icons.iconseeker.com/png/fullsize/frenzic-system/news-7.png
+URL=http://127.0.0.1/plx/englishnewstv.plx
