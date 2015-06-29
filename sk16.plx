@@ -17,3 +17,8 @@ type=video
 name=GTH ON AIR
 thumb=http://www.cth.co.th/wp-content/uploads/2014/02/GTH-on-air.png
 URL=http://edge.newone2up.swiftserve.com/live/live-one2hd/one2hd-mtg-ch49/chunklist_w470625599.m3u8
+#
+type=video
+name=ABC
+thumb=http://127.0.0.1/uploads/2014/02/GTH-on-air.png
+URL=http://edge.newone2up.swiftserve.com/live/live-one2hd/one2hd-mtg-ch49/chunklist_w470625599.m3u8
