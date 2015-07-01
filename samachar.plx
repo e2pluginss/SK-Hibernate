@@ -57,3 +57,8 @@ type=video
 name=LSTV
 thumb=http://www.freeetv.com/images/01_logo/lok_shaba.jpg
 URL=http://164.100.49.18:8080/hls-live/livepkgr/_definst_/lstvlive/lstvlive.m3u8
+#
+type=video
+name=RSTV
+thumb=http://www.freeetv.com/images/01_logo/lok_shaba.jpg
+URL=http://164.100.49.18:8080/hls-live/livepkgr/_definst_/rstv/rstv.m3u8  
