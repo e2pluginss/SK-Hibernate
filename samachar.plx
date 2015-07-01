@@ -54,6 +54,6 @@ thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/8656270.png
 URL=http://nwk4-lh.akamaihd.net/i/us4_zeebusiness@315939/index_1100.m3u8
 #
 type=video
-name=RSTV
-thumb=http://1.bp.blogspot.com/-T5A7W-mSvik/VPqZlAT_9OI/AAAAAAAAElM/y_ouhaoRL3U/s1600/rajya_sabha_tv.png
-URL=http://164.100.49.18:8080/hds-live/livepkgr/_definst_/rstv.f4m
+name=LSTV
+thumb=http://www.freeetv.com/images/01_logo/lok_shaba.jpg
+URL=http://164.100.49.18:8080/hls-live/livepkgr/_definst_/lstvlive/lstvlive.m3u8
