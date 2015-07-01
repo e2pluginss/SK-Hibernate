@@ -42,4 +42,8 @@ type=video
 name=Bein Sports 3
 thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/5697522.png
 URL=http://streamindo.ddns.net/jhos/beib3_4/streamindo/playlist.m3u8
-
+#
+type=video
+name=LSTV
+thumb=http://www.freeetv.com/images/01_logo/lok_shaba.jpg
+URL=http://164.100.49.18:8080/hls-live/livepkgr/_definst_/lstvlive/lstvlive.m3u8
