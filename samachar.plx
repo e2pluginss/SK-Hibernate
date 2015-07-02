@@ -60,5 +60,10 @@ URL=http://164.100.49.18:8080/hls-live/livepkgr/_definst_/lstvlive/lstvlive.m3u8
 #
 type=video
 name=RSTV
-thumb=http://www.freeetv.com/images/01_logo/lok_shaba.jpg
+thumb=http://1.bp.blogspot.com/-T5A7W-mSvik/VPqZlAT_9OI/AAAAAAAAElM/y_ouhaoRL3U/s1600/rajya_sabha_tv.png
 URL=http://164.100.49.18:8080/hls-live/livepkgr/_definst_/rstv/rstv.m3u8  
+#
+type=video
+name=DD Punjabi
+thumb=http://webcast.gov.in/images/ddpunjabi.png
+URL=http://164.100.49.24:8080/hls-live/livepkgr/_definst_/ddpunjabi.m3u8
