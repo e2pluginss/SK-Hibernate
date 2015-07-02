@@ -67,3 +67,8 @@ type=video
 name=DD Punjabi
 thumb=http://webcast.gov.in/images/ddpunjabi.png
 URL=http://164.100.49.24:8080/hls-live/livepkgr/_definst_/ddpunjabi.m3u8
+#
+type=video
+name=Samachar Plus
+thumb=http://cdn.strongestworld.com/wp-content/uploads/2012/12/samachar-plus-news-tv-channel-india.png
+http://edge-ind.inapcdn.in:1935/wrap/samaca2.stream/playlist.m3u8
