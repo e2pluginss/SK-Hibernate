@@ -47,3 +47,13 @@ type=video
 name=LSTV
 thumb=http://www.freeetv.com/images/01_logo/lok_shaba.jpg
 URL=http://164.100.49.18:8080/hls-live/livepkgr/_definst_/lstvlive/lstvlive.m3u8
+#
+type=video
+name=POGO-Z
+thumb=http://www.freeetv.com/images/01_logo/lok_shaba.jpg
+URL=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD29_W_350.sdp/chunklist.m3u8
+#
+type=video
+name=DD BHARTI
+thumb=http://www.freeetv.com/images/01_logo/lok_shaba.jpg
+URL=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD251_W_350.sdp/chunklist.m3u8
