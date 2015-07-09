@@ -57,3 +57,8 @@ type=video
 name=DD BHARTI
 thumb=http://www.freeetv.com/images/01_logo/lok_shaba.jpg
 URL=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD251_W_350.sdp/chunklist.m3u8
+#
+type=video
+name=DD National
+thumb=http://www.freeetv.com/images/01_logo/lok_shaba.jpg
+URL=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD235_W_350.sdp/chunklist.m3u8
