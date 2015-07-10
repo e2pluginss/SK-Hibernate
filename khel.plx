@@ -64,6 +64,6 @@ thumb=http://www.indiantelevision.com/sites/drupal7.indiantelevision.co.in/files
 URL=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD235_W_350.sdp/chunklist.m3u8
 #
 type=video
-name=Roger TV
-thumb=http://www.freeetv.com/images/01_logo/lok_shaba.jpg
-URL=http://rogerslive-i.akamaihd.net/hls/live/202799/event/index.m3u8
+name=India Live
+thumb=http://d3jnkp3lrs2hd5.cloudfront.net/images/100X100/55b3496a-9f95-4a55-8d22-516f4be7b330.jpg
+URL=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD215_W_350.sdp/chunklist.m3u8
