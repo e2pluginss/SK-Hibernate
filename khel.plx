@@ -50,17 +50,17 @@ URL=http://164.100.49.18:8080/hls-live/livepkgr/_definst_/lstvlive/lstvlive.m3u8
 #
 type=video
 name=POGO-Z
-thumb=http://www.freeetv.com/images/01_logo/lok_shaba.jpg
+thumb=http://www.turner.com/turnerdom/images/pogo_left_logo.jpg
 URL=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD29_W_350.sdp/chunklist.m3u8
 #
 type=video
 name=DD BHARTI
-thumb=http://www.freeetv.com/images/01_logo/lok_shaba.jpg
+thumb=http://tvimages.burrp.com/images/channels2/Entertainment/DD-Bharati.png
 URL=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD251_W_350.sdp/chunklist.m3u8
 #
 type=video
 name=DD National
-thumb=http://www.freeetv.com/images/01_logo/lok_shaba.jpg
+thumb=http://www.indiantelevision.com/sites/drupal7.indiantelevision.co.in/files/images/tv-images/2015/06/02/tv%20teresstrial_0.png
 URL=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD235_W_350.sdp/chunklist.m3u8
 #
 type=video
