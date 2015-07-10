@@ -67,3 +67,13 @@ type=video
 name=India Live
 thumb=http://d3jnkp3lrs2hd5.cloudfront.net/images/100X100/55b3496a-9f95-4a55-8d22-516f4be7b330.jpg
 URL=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD215_W_350.sdp/chunklist.m3u8
+#
+type=video
+name=India News
+thumb=http://d3jnkp3lrs2hd5.cloudfront.net/images/220x115/87021a6d-411e-11e2-b4c6-7071bccc85ac.jpg
+URL=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD148_W_350.sdp/chunklist.m3u8
+#
+type=video
+name=Big Thrill
+thumb=http://d3jnkp3lrs2hd5.cloudfront.net/images/220x115/309b2640bigthrill.jpg
+URL=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD153_W_350.sdp/chunklist.m3u8
