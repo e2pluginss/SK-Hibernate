@@ -77,3 +77,8 @@ type=video
 name=Big Thrill
 thumb=http://d3jnkp3lrs2hd5.cloudfront.net/images/220x115/309b2640bigthrill.jpg
 URL=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD153_W_350.sdp/chunklist.m3u8
+#
+type=video
+name=Willow
+thumb=https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG
+URL=http://smarterapps.ddns.net:8080/Willo1w/Willo1jkTeR/index.m3u8
