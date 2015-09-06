@@ -77,3 +77,13 @@ type=video
 name=9x Jhakaas
 thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/333958.png
 URL=http://hlsotherent-lh.akamaihd.net/i/ams23_9xjhakaas@127488/index_800_av.m3u8
+#
+type=video
+name=B4U Music India
+thumb=http://corporate.b4utv.com/images/logo.png
+URL=http://tvth.m3u8.cdn-live.com/app/ios/81ff107849124ff389814b0b8816b1ba.m3u8
+#
+type=video
+name=Channel V India
+thumb=https://scontent-b-sin.xx.fbcdn.net/hphotos-ash3/t1.0-9/1475808_10151838811343034_1688799363_n.png
+URL=http://tvth.m3u8.cdn-live.com/app/ios/09cac500285d42ec97465b2219db5f53.m3u8
