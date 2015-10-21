@@ -1,3 +1,9 @@
+title=Hindi Ent ===
+version=1
+background=https://upload.wikimedia.org/wikipedia/commons/8/87/Animated-Flag-Hong-Kong.gif
+view=thumbnails
+#
+
 type=video
 name=10/07-B4u Movies;Movie Channels;IN;Hindi (*** [WELCOME TO TESTERS INC.]  ***)
 URL=http://103.240.232.91/hls/b4umoviesabr/index.m3u8
