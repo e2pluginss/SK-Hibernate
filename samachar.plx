@@ -6,6 +6,53 @@ view=thumbnails
 type=video
 name=Aaj Tak
 thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/9539561.png
+URL=http://indiatoday.purplestream.in/itadsparx/aajtak1mb/playlist.m3u8
+#
+type=video
+name=Tez News
+thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/3714522.png
+URL=http://indiatoday.purplestream.in/itadsparx/tez1mb/playlist.m3u8
+#
+type=video
+name=DD News
+thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/4740828.jpg
+URL=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD100_W_150.sdp/samitv.m3u8
+#
+type=video
+name=India TV
+thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/9856754.png
+URL=http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
+#
+type=video
+name=IBN 7
+thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/7774480.png
+URL=http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3.m3u8
+#
+type=video
+name=IBN Lokmat
+thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/424142.png
+URL=http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
+#
+type=video
+name=ABP News
+thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/1305273.jpg
+URL=http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+#
+type=video
+name=Zee Business
+thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/8656270.png
+URL=http://live.nwk3.yupptv.tv/nwk3/smil:zeebusiness.smil/playlist.m3u8
+#
+type=video
+name=Zee Business USA
+thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/8656270.png
+URL=http://live.nwk3.yupptv.tv/nwk3/smil:zeebusinessus.smil/playlist.m3u8
+
+
+#
+type=video
+name=Aaj Tak
+thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/9539561.png
 URL=http://hlshinnews-lh.akamaihd.net/i/ams2_aajtak@124566/index_1100_av.m3u8
 #
 type=video
