@@ -51,12 +51,12 @@ URL=http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3.m3u8
 type=video
 name=Times Now
 thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/3214521.png
-URL=http://hlsent-lh.akamaihd.net/i/ams42_timesnow@307538/index_800.m3u8
+URL=http://akamaihd.wowzahls1.yuppcdn.net/live/timesnow/chunklist.m3u8
 #
 type=video
 name=ET Now
 thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/5410419.png
-URL=http://hlsengnews-lh.akamaihd.net/i/hls20_etnow4@4864/index_1000.m3u8
+URL=http://akamaihd.wowzahls1.yuppcdn.net/live/etnow/chunklist.m3u8
 #
 type=video
 name=India Today
