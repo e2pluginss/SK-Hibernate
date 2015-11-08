@@ -77,3 +77,9 @@ type=video
 name=ABC News
 thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/4697450.png
 URL=http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#
+type=video
+name=India Today
+thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/7411477.jpg
+URL=http://nwk8-lh.akamaihd.net/i/us8_headlinestoday@328498/master.m3u8 
+
