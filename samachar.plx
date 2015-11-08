@@ -93,7 +93,7 @@ URL=http://hlshinnews-lh.akamaihd.net/i/ams2_saharasamay@124568/index_1100.m3u8
 type=video
 name=Sahara Bihar
 thumb=http://images.cloud.yuppcdn.net/yupptv/roku/images/samay_bihar_roku.jpg
-URL=http://yupptvrtmp-lh.akamaihd.net/i/blore1_saharabihar19@37803/master.m3u8
+URL=http://hlshinnews-lh.akamaihd.net/i/ams8_samaybih@124592/master.m3u8
 #
 type=video
 name=Zee Business
