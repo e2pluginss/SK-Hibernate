@@ -118,4 +118,11 @@ URL=http://164.100.49.24:8080/hls-live/livepkgr/_definst_/ddpunjabi.m3u8
 type=video
 name=Samachar Plus
 thumb=http://cdn.strongestworld.com/wp-content/uploads/2012/12/samachar-plus-news-tv-channel-india.png
-http://edge-ind.inapcdn.in:1935/wrap/samaca2.stream/playlist.m3u8
+URL=http://edge-ind.inapcdn.in:1935/wrap/samaca2.stream/playlist.m3u8
+
+#
+type=video
+name=ETV Bihar
+thumb=https://yt3.ggpht.com/-ZgEUq6BGe-Q/AAAAAAAAAAI/AAAAAAAAAAA/vMhr3-TaNJ8/s900-c-k-no/photo.jpg
+URL=http://etv_bihar_jharkh-lh.akamaihd.net/i/etv_bihar_hls_1@175736/index_3_av-b.m3u8?sd=10&play-only=backup&rebase=on
+
