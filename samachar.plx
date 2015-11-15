@@ -126,3 +126,10 @@ name=ETV Bihar
 thumb=https://yt3.ggpht.com/-ZgEUq6BGe-Q/AAAAAAAAAAI/AAAAAAAAAAA/vMhr3-TaNJ8/s900-c-k-no/photo.jpg
 URL=http://etv_bihar_jharkh-lh.akamaihd.net/i/etv_bihar_hls_1@175736/index_3_av-b.m3u8?sd=10&play-only=backup&rebase=on
 
+#
+type=video
+name=News 24
+thumb=http://news24-d50.kxcdn.com/static/images/News24logo.png
+
+URL=http://d20vhs4gtao945.cloudfront.net/bagnetworks/ngrp:news24_all/chunklist_b634000.m3u8
+
