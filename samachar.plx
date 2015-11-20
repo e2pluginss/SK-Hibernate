@@ -6,7 +6,7 @@ view=thumbnails
 type=video
 name=Aaj Tak
 thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/9539561.png
-URL=http://hlshinnews-lh.akamaihd.net/i/ams2_aajtak@124566/master.m3u8
+URL=https://www.youtube.com/watch?v=5ZOQNkXGrBI
 #
 type=video
 name=Tez News
