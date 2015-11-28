@@ -130,6 +130,11 @@ URL=http://etv_bihar_jharkh-lh.akamaihd.net/i/etv_bihar_hls_1@175736/index_3_av-
 type=video
 name=News 24
 thumb=http://news24-d50.kxcdn.com/static/images/News24logo.png
-
 URL=http://d20vhs4gtao945.cloudfront.net/bagnetworks/ngrp:news24_all/chunklist_b634000.m3u8
+
+#
+type=video
+name=ZEE News
+thumb=http://vignette3.wikia.nocookie.net/logopedia/images/2/28/Zee_News.png/revision/latest?cb=20110926153806
+URL=http://zeeapp-lh.akamaihd.net/i/zeenews_1@336222/index_500_av-p.m3u8
 
