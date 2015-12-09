@@ -4,9 +4,10 @@ background=http://ai-i3.infcdn.net/icons_siandroid/jpg/300/2575/2575355.jpg
 view=thumbnails
 #
 type=video
-name=Aaj Tak
-thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/9539561.png
-URL=https://www.youtube.com/watch?v=5ZOQNkXGrBI
+name=India Tv
+thumb=http://jadootv.com/wp-content/uploads/2015/05/ai1.png
+URL=http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
+
 #
 type=video
 name=Tez News
@@ -19,19 +20,14 @@ thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/4740828.jpg
 URL=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD100_W_150.sdp/samitv.m3u8
 #
 type=video
-name=India TV
-thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/9856754.png
-URL=http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
-#
-type=video
 name=IBN 7
 thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/7774480.png
 URL=http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3.m3u8
 #
 type=video
-name=IBN Lokmat
+name=ET Now
 thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/424142.png
-URL=http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
+URL=http://hlsengnews-lh.akamaihd.net/i/hls20_etnow4@4864/index_1000.m3u8
 #
 type=video
 name=ABP News
@@ -48,12 +44,12 @@ name=Zee Business USA
 thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/8656270.png
 URL=http://live.nwk3.yupptv.tv/nwk3/smil:zeebusinessus.smil/playlist.m3u8
 
-
 #
 type=video
-name=Aaj Tak
+name=Times Now
 thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/9539561.png
-URL=http://hlshinnews-lh.akamaihd.net/i/ams2_aajtak@124566/index_1100_av.m3u8
+URL=http://yupptvrtmp-lh.akamaihd.net/i/blore7_timesnow8@113076/index_1000_av.m3u8?e=6d02d2379770c77e&
+
 #
 type=video
 name=Tez News
