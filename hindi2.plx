@@ -202,18 +202,9 @@ type=video
 name=SEPL Movies Hindi
 thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/3114298.jpg
 URL=http://46.249.213.87/iPhone/broadcast/bollywoodmovies-tablet.3gp.m3u8
+
 #
 type=video
-name=Aastha TV
-thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/8080480.jpg
-URL=http://hlshinextra-lh.akamaihd.net/i/ams38_aasthatv@301404/index_1100.m3u8
-#
-type=video
-name=Aastha Bhajan
-thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/607133.jpg
-URL=http://hlshinextra-lh.akamaihd.net/i/ams38_bhajan@301291/index_1100.m3u8
-#
-type=video
-name=Sanskar TV
-thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/711397.jpg
-URL=http://yupptvrtmp-lh.akamaihd.net/i/blore_7@35255/index_1000.m3u8
+name=ZOOM TV
+thumb=http://vignette2.wikia.nocookie.net/logopedia/images/a/ab/Zoom_TV.png
+URL=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD160_W_350.sdp/playlist.m3u8
