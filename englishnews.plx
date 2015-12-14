@@ -69,9 +69,19 @@ thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/5150607.png
 URL=http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8
 #
 type=video
-name=NDTV Profit
+name=NDTV GoodTime
 thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/7781024.png
-URL=http://ndtv.indostan.epac.to/ndtv/prolo/live/native
+URL=http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b3/_definst_/ndtv/live/ndtvgoodtime.smil/playlist.m3u8
+#
+type=video
+name=NDTV India
+thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/7781024.png
+URL=http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtvindialive.smil/playlist.m3u8
+#
+type=video
+name=NDTV PRIME
+thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/7781024.png
+URL=http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/testmultibitrate.smil/playlist.m3u8
 #
 type=video
 name=ABC News
