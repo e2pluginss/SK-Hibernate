@@ -66,7 +66,7 @@ URL=http://hlsengnews-lh.akamaihd.net/i/hls20_headlinestoda3@4861/index_1000.m3u
 type=video
 name=NDTV 24x7
 thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/5150607.png
-URL=http://ndtv.indostan.epac.to/ndtv/247lo/live/native
+URL=http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8
 #
 type=video
 name=NDTV Profit
