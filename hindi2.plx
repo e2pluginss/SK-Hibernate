@@ -6,27 +6,7 @@ view=thumbnails
 type=video
 name=Star Plus
 thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/4475132.png
-URL=http://admin.8packlive.tulix.tv/hls/bollywoodmovies/bollywoodmovies.m3u8
-#
-type=video
-name=Star Plus
-thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/4475132.png
-URL=http://live.nwk5.yupptv.tv/nwk5/smil:starplus.smil/playlist.m3u8
-#
-type=video
-name=Star Plus [S2]
-thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/4475132.png
-URL=http://akamaihd.wowzahls11.yuppcdn.net/live/starplus/chunklist.m3u8
-#
-type=video
-name=Life OK
-thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/2779379.png
-URL=http://live.nwk5.yupptv.tv/nwk5/smil:lifeok.smil/playlist.m3u8
-#
-type=video
-name=Life OK [S2]
-thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/2779379.png
-URL=http://akamaihd.wowzahls13.yuppcdn.net/live/lifeok/chunklist.m3u8
+URL=http://136.243.12.170/star_plus_in.m3u8?token=b484670d13ab8217e7a2315dbbd514df&user=41166&bands=956
 #
 type=video
 name=Zee Bollywood HD
