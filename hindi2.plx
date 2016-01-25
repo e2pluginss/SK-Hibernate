@@ -2,11 +2,26 @@ title=Hindi Ent ===
 version=1
 background=https://upload.wikimedia.org/wikipedia/commons/b/b7/Hindi_devnagari.png
 view=thumbnails
+# 2558023
+type=video
+name=Colors India Hindi IN Colors TV INDIA
+thumb=http://tvyaar.com/db_imgs/T6QH91X8YBZKU3VG5C7S1309997914.jpg
+URL=http://109.236.92.207/mylive/test6/index.m3u8
+# 2558170
+type=video
+name=Star Plus India Hindi IN Star Plus INDIA
+thumb=http://vignette3.wikia.nocookie.net/logopedia/images/9/9b/Star_Plus_USA.png
+URL=http://109.236.92.207/mylive/test5/index.m3u8
 #
 type=video
 name=Star Plus
 thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/4475132.png
 URL=http://136.243.12.170/star_plus_in.m3u8?token=b484670d13ab8217e7a2315dbbd514df&user=41166&bands=956
+# 2557962
+type=video
+name=&tv HD Hindi IN &tv HD
+thumb=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ892-hdNPIybGKZpGSE9rZqsEqHPfRWw9SYyMaWYUSWDW2piS9Zio8JA
+URL=http://stream.zeefamily.tv/andtvhd/index.m3u8
 #
 type=video
 name=Zee Bollywood HD
