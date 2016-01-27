@@ -132,5 +132,25 @@ URL=http://d20vhs4gtao945.cloudfront.net/bagnetworks/ngrp:news24_all/chunklist_b
 type=video
 name=ZEE News
 thumb=http://vignette3.wikia.nocookie.net/logopedia/images/2/28/Zee_News.png/revision/latest?cb=20110926153806
-URL=http://zeeapp-lh.akamaihd.net/i/zeenews_1@336222/index_500_av-p.m3u8
-
+URL=http://stream.zeefamily.tv/zeenews/index.m3u8
+#URL=http://zeeapp-lh.akamaihd.net/i/zeenews_1@336222/index_500_av-p.m3u8
+#
+type=video
+name=DD BHARTI
+thumb=http://tvimages.burrp.com/images/channels2/Entertainment/DD-Bharati.png
+URL=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD251_W_350.sdp/chunklist.m3u8
+#
+type=video
+name=DD National
+thumb=http://www.indiantelevision.com/sites/drupal7.indiantelevision.co.in/files/images/tv-images/2015/06/02/tv%20teresstrial_0.png
+URL=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD235_W_350.sdp/chunklist.m3u8
+#
+type=video
+name=India Live
+thumb=http://d3jnkp3lrs2hd5.cloudfront.net/images/100X100/55b3496a-9f95-4a55-8d22-516f4be7b330.jpg
+URL=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD215_W_350.sdp/chunklist.m3u8
+#
+type=video
+name=India News
+thumb=http://d3jnkp3lrs2hd5.cloudfront.net/images/220x115/87021a6d-411e-11e2-b4c6-7071bccc85ac.jpg
+URL=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD148_W_350.sdp/chunklist.m3u8
