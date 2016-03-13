@@ -32,3 +32,7 @@ type=video
 name=NFL
 thumb=http://vignette3.wikia.nocookie.net/looneytunes/images/4/49/NFL-logo.png
 URL=http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+#
+type=video
+name=BALLA
+URL=http://185.59.222.89:1935/cdn/starsportshd1/chunklist.m3u8
