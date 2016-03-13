@@ -19,9 +19,9 @@ thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/5697522.png
 URL=http://streamindo.ddns.net/jhos/beib3_4/streamindo/playlist.m3u8
 #
 type=video
-name=Big Thrill
+name=Dhd
 thumb=http://d3jnkp3lrs2hd5.cloudfront.net/images/220x115/309b2640bigthrill.jpg
-URL=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD153_W_350.sdp/chunklist.m3u8
+URL=http://185.59.222.89:1935/cdn/discoveryhd/chunklist.m3u8
 #
 type=video
 name=NBC Golf
