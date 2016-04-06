@@ -46,12 +46,12 @@ URL=http://stream.zeefamily.tv/zeesmile/index.m3u8
 type=video
 name=Zee Smile [S2]
 thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/5679203.png
-URL=http://live.nwk4.yupptv.tv/nwk4/smil:zeesmile.smil/playlist.m3u8
+URL=http://akamaihd.wowzahls1.yuppcdn.net/live/zeesmile/chunklist.m3u8
 #
 type=video
 name=Zee Cinema
 thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/8033348.png
-URL=http://stream.zeefamily.tv/zeecinema/index.m3u8
+URL=http://akamaihd.wowzahls1.yuppcdn.net/live/zeecinema/chunklist.m3u8
 #
 type=video
 name=Zee Cinema [S2]
