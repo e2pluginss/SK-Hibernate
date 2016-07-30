@@ -154,3 +154,8 @@ type=video
 name=India News
 thumb=http://d3jnkp3lrs2hd5.cloudfront.net/images/220x115/87021a6d-411e-11e2-b4c6-7071bccc85ac.jpg
 URL=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD148_W_350.sdp/chunklist.m3u8
+#
+type=video
+name=NDTV INDIA
+thumb=https://lh6.googleusercontent.com/-cmEwU_SpIRQ/TXMjlt6M9gI/AAAAAAAAACM/dVAy1s57vgo/s1600/NDTV_India.png
+URL=http://ndtvstream-lh.akamaihd.net/i/ndtv_india_1@300634/master.m3u8
