@@ -92,4 +92,9 @@ type=video
 name=India Today
 thumb=http://www.weebly.com/uploads/1/0/6/7/10670567/7411477.jpg
 URL=http://nwk8-lh.akamaihd.net/i/us8_headlinestoday@328498/master.m3u8 
+#
+type=video
+name=NewsX
+thumb=http://www.newsx.com/sites/default/files/logo_0.gif
+URL=http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/playlist.m3u8
 
